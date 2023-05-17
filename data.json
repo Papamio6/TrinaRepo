@@ -5,34 +5,39 @@
       "waterLevel": 35.0,
       "modules": [
             {
-                  "name": "Module 0",
+                  "name": "zizi",
                   "n": 1,
                   "p": 2,
-                  "k": 3
+                  "k": 3,
+                  "mois": 70
             },
             {
                   "name": "Module 1",
                   "n": 1,
                   "p": 2,
-                  "k": 3
+                  "k": 3,
+                  "mois": 70
             },
             {
                   "name": "Module 2",
                   "n": 1,
                   "p": 2,
-                  "k": 3
+                  "k": 3,
+                  "mois": 70
             },
             {
                   "name": "Module 3",
                   "n": 1,
                   "p": 2,
-                  "k": 3
+                  "k": 3,
+                  "mois": 70
             },
             {
                   "name": "Module 4",
                   "n": 1,
                   "p": 2,
-                  "k": 3
+                  "k": 3,
+                  "mois": 70
             }
       ]
 }
