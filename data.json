@@ -1,29 +1,78 @@
 {
-      "temperature": 21.0,
-      "humidity": 38.0,
-      "battery": 18.0,
-      "waterLevel": 94.02591970902455,
+      "temperature": 45,
+      "humidity": 75,
+      "battery": 80.0,
+      "waterLevel": 35.0,
       "modules": [
             {
+                  "name": "Module 0",
+                  "n": 1,
+                  "p": 2,
+                  "k": 3,
+                  "mois": 70
+            },
+            {
                   "name": "Module 1",
-                  "n": "105",
-                  "p": "160",
-                  "k": "120",
-                  "mois": "60"
+                  "n": 1,
+                  "p": 2,
+                  "k": 3,
+                  "mois": 70
+            },
+            {
+                  "name": "Module 2",
+                  "n": 1,
+                  "p": 2,
+                  "k": 3,
+                  "mois": 70
             },
             {
                   "name": "Module 3",
-                  "n": "105",
-                  "p": "160",
-                  "k": "120",
-                  "mois": "60"
+                  "n": 1,
+                  "p": 2,
+                  "k": 3,
+                  "mois": 70
             },
             {
                   "name": "Module 4",
-                  "n": "0",
-                  "p": "0",
-                  "k": "0",
-                  "mois": "0"
+                  "n": 1,
+                  "p": 2,
+                  "k": 3,
+                  "mois": 70
+            },
+            {
+                  "name": "Module 5",
+                  "n": 1,
+                  "p": 2,
+                  "k": 3,
+                  "mois": 70
+            },
+            {
+                  "name": "Module 6",
+                  "n": 1,
+                  "p": 2,
+                  "k": 3,
+                  "mois": 70
+            },
+            {
+                  "name": "Module 7",
+                  "n": 1,
+                  "p": 2,
+                  "k": 3,
+                  "mois": 70
+            },
+            {
+                  "name": "Module 8",
+                  "n": 1,
+                  "p": 2,
+                  "k": 3,
+                  "mois": 70
+            },
+            {
+                  "name": "Module 9",
+                  "n": 1,
+                  "p": 2,
+                  "k": 3,
+                  "mois": 70
             }
       ]
 }
