@@ -1,11 +1,11 @@
 {
-      "temperature": 25,
+      "temperature": 45,
       "humidity": 75,
-      "battery": 15.0,
+      "battery": 80.0,
       "waterLevel": 35.0,
       "modules": [
             {
-                  "name": "zizi",
+                  "name": "Module 0",
                   "n": 1,
                   "p": 2,
                   "k": 3,
@@ -34,6 +34,41 @@
             },
             {
                   "name": "Module 4",
+                  "n": 1,
+                  "p": 2,
+                  "k": 3,
+                  "mois": 70
+            },
+            {
+                  "name": "Module 5",
+                  "n": 1,
+                  "p": 2,
+                  "k": 3,
+                  "mois": 70
+            },
+            {
+                  "name": "Module 6",
+                  "n": 1,
+                  "p": 2,
+                  "k": 3,
+                  "mois": 70
+            },
+            {
+                  "name": "Module 7",
+                  "n": 1,
+                  "p": 2,
+                  "k": 3,
+                  "mois": 70
+            },
+            {
+                  "name": "Module 8",
+                  "n": 1,
+                  "p": 2,
+                  "k": 3,
+                  "mois": 70
+            },
+            {
+                  "name": "Module 9",
                   "n": 1,
                   "p": 2,
                   "k": 3,
