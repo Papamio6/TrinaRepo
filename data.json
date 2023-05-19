@@ -6,13 +6,15 @@
       "modules": [
             {
                   "name": "Module 5",
+                  "field": "poireaux",
                   "n": 60,
                   "p": 80,
                   "k": 150,
-                  "mois": 0
+                  "mois": 14
             },
             {
                   "name": "Module 6",
+                  "field": "tomate",
                   "n": 0,
                   "p": 0,
                   "k": 0,
