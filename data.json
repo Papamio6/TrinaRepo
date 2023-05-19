@@ -1,5 +1,5 @@
 {
-      "temperature": 19,
+      "temperature": 20,
       "humidity": 40,
       "battery": 18,
       "waterLevel": 94,
@@ -9,7 +9,7 @@
                   "n": 60,
                   "p": 80,
                   "k": 150,
-                  "mois": 41
+                  "mois": 0
             }
       ]
 }
