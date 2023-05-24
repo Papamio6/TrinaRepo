@@ -2,7 +2,7 @@
       "temperature": 21,
       "humidity": 43,
       "battery": 18,
-      "waterLevel": 99,
+      "waterLevel": 96,
       "modules": [
             {
                   "name": "Module 5",
@@ -10,7 +10,7 @@
                   "n": 45,
                   "p": 64,
                   "k": 128,
-                  "mois": 30
+                  "mois": 20
             },
             {
                   "name": "Module 6",
