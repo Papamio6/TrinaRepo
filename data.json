@@ -11,6 +11,14 @@
                   "p": 28,
                   "k": 57,
                   "mois": 23
+            },
+            {
+                  "name": "Module 6",
+                  "field": "tomates",
+                  "n": 0,
+                  "p": 0,
+                  "k": 0,
+                  "mois": 0
             }
       ]
 }
