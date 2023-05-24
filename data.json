@@ -2,14 +2,14 @@
       "temperature": 21,
       "humidity": 44,
       "battery": 18,
-      "waterLevel": 99,
+      "waterLevel": 98,
       "modules": [
             {
                   "name": "Module 5",
                   "field": "poireau",
-                  "n": 0,
-                  "p": 0,
-                  "k": 0,
+                  "n": 1,
+                  "p": 3,
+                  "k": 6,
                   "mois": 18
             },
             {
