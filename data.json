@@ -1,8 +1,8 @@
 {
-      "temperature": 27,
-      "humidity": 45,
+      "temperature": 25,
+      "humidity": 38,
       "battery": 18,
-      "waterLevel": 95,
+      "waterLevel": 100,
       "modules": [
             {
                   "name": "Module 5",
@@ -10,11 +10,19 @@
                   "n": 0,
                   "p": 0,
                   "k": 0,
-                  "mois": 16
+                  "mois": 17
             },
             {
                   "name": "Module 6",
                   "field": "tomates",
+                  "n": 0,
+                  "p": 0,
+                  "k": 0,
+                  "mois": 0
+            },
+            {
+                  "name": "Module 7",
+                  "field": "",
                   "n": 0,
                   "p": 0,
                   "k": 0,
