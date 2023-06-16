@@ -1,5 +1,5 @@
 {
-      "temperature": 32,
+      "temperature": 31,
       "humidity": 35,
       "battery": 18,
       "waterLevel": 100,
@@ -9,13 +9,13 @@
                   "field": "poireau",
                   "n": 35,
                   "p": 49,
-                  "k": 98,
+                  "k": 99,
                   "mois": 32
             },
             {
                   "name": "Module 1",
                   "field": "tomates",
-                  "n": 32,
+                  "n": 31,
                   "p": 44,
                   "k": 89,
                   "mois": 100
