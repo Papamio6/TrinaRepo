@@ -1,8 +1,8 @@
 {
       "temperature": 31,
-      "humidity": 36,
+      "humidity": 35,
       "battery": 18,
-      "waterLevel": 84,
+      "waterLevel": 100,
       "modules": [
             {
                   "name": "Module 5",
