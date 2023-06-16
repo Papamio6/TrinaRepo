@@ -1,6 +1,6 @@
 {
       "temperature": 31,
-      "humidity": 35,
+      "humidity": 33,
       "battery": 18,
       "waterLevel": 100,
       "modules": [
@@ -10,12 +10,12 @@
                   "n": 35,
                   "p": 49,
                   "k": 99,
-                  "mois": 32
+                  "mois": 35
             },
             {
                   "name": "Module 1",
                   "field": "tomates",
-                  "n": 31,
+                  "n": 32,
                   "p": 44,
                   "k": 89,
                   "mois": 100
