@@ -1,24 +1,24 @@
 {
-      "temperature": 26,
-      "humidity": 35,
+      "temperature": 27,
+      "humidity": 41,
       "battery": 18,
-      "waterLevel": 92,
+      "waterLevel": 96,
       "modules": [
             {
                   "name": "Module 5",
                   "field": "poireau",
-                  "n": 32,
-                  "p": 45,
-                  "k": 90,
-                  "mois": 100
+                  "n": 33,
+                  "p": 47,
+                  "k": 94,
+                  "mois": 34
             },
             {
                   "name": "Module 1",
                   "field": "tomates",
-                  "n": 255,
-                  "p": 255,
-                  "k": 255,
-                  "mois": 100
+                  "n": 36,
+                  "p": 51,
+                  "k": 102,
+                  "mois": 97
             }
       ]
 }
